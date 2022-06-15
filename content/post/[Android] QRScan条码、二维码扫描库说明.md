@@ -1,5 +1,5 @@
 ---
-title: QRScan条码、二维码扫描库说明
+title: [Android] QRScan条码、二维码扫描库说明
 date: 2022-06-15 00:00:00
 ---
 

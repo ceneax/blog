@@ -1,7 +1,7 @@
----
-title: "[Android] QRScan条码、二维码扫描库说明"
-date: "2022-06-15"
----
++++
+title = "[Android] QRScan条码、二维码扫描库说明"
+date = "2022-06-15"
++++
 
 一个简单好用的 Android 条码、二维码扫描识别库
 

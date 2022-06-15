@@ -3,9 +3,9 @@ title: Parse Express搭建教程
 date: 2020-06-08 09:32:47
 ---
 
-> 之前说了如何搭建最原始的parse服务，但是生产环境并不方便那样做。所以就按照官方的例子自己搭建一个express。
+之前说了如何搭建最原始的parse服务，但是生产环境并不方便那样做。所以就按照官方的例子自己搭建一个express。
 
-<!-- more -->
+<!--more-->
 
 搭建express之前只需要安装好node和npm还有mongodb这三个就行。
 

@@ -1,4 +1,4 @@
-# baseURL = 'https://blog.wox.cool/'
+baseURL = '/'
 languageCode = 'zh-cn'
 title = 'ceneax'
 theme = 'hello-friend'
